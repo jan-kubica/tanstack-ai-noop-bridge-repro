@@ -5,6 +5,9 @@
   "scripts": {
     "start": "node index.mjs"
   },
+  "stackblitz": {
+    "startCommand": "npm start"
+  },
   "dependencies": {
     "@tanstack/ai-client": "0.16.3"
   }
