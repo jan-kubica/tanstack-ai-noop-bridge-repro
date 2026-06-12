@@ -1,0 +1,11 @@
+{
+  "name": "tanstack-ai-noop-bridge-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@tanstack/ai-client": "0.16.3"
+  }
+}
